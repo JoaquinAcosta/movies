@@ -2,4 +2,4 @@
 ## Integrantes
 - Juan Alarcon
 - Jon Ybarra
-- Joaquin Acosta
+- Joaquin Acosta, 22, La Matanza
